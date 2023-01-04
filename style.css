@@ -16,7 +16,7 @@ body{
     height: 500px;
     box-shadow: 4px 4px 30px rgb(8, 7, 7);
     border-radius: 12px;
-    background: black;
+    background: rgb(23, 23, 23);
     overflow: hidden;
    
 }
@@ -28,7 +28,7 @@ form input{
     font-size: 2rem;
     padding: 1rem;
     color: beige;
-    background-color: rgb(15, 15, 15);
+    background-color: rgb(6, 6, 6);
     text-align: right;
     pointer-events: none;
 }
